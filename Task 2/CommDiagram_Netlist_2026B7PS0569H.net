@@ -1,0 +1,1007 @@
+(export
+	(version "E")
+	(design
+		(source "E:\\Documents\\AeolusInductions\\Task 2\\CommDiagram\\CommDiagram.kicad_sch")
+		(date "2026-09-03T01:21:14")
+		(tool "Eeschema 10.0.5")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title)
+				(company)
+				(rev)
+				(date)
+				(source "CommDiagram.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "BEC1")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "CommDiagramLibrary")
+				(part "BEC")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CommDiagram.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b023b8cc-f0b9-419c-a437-1cae5e671cb5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "PXH1")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "CommDiagramLibrary")
+				(part "Pixhawk 6C Mini (Comms)")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CommDiagram.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "bcb43fd3-9c70-4f8d-8096-c9c0b2d62ddd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "12")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "RC_RX1")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "CommDiagramLibrary")
+				(part "ELRS_RC_RX")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CommDiagram.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "f07790cf-725f-485a-896a-8573979bd4a4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SIK_TELEM1")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "CommDiagramLibrary")
+				(part "SiK_Telemtery_V3")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CommDiagram.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "91357179-7cf0-4590-92b1-dc572493ccd8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "VTX1")
+			(value "~")
+			(fields
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "CommDiagramLibrary")
+				(part "Walksnail_Avatar_HD_Pro_VTX")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "Root")
+			)
+			(property
+				(name "Sheetfile")
+				(value "CommDiagram.kicad_sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a43e89d0-b5db-41e0-b651-8d696e21d8aa")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "CommDiagramLibrary")
+			(part "BEC")
+			(fields
+				(field
+					(name "Reference") "BEC1")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VIN")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "GND_IN")
+					(type "power_in")
+				)
+				(pin
+					(num "3")
+					(name "12V_OUT")
+					(type "power_out")
+				)
+				(pin
+					(num "4")
+					(name "GND_OUT")
+					(type "power_out")
+				)
+			)
+		)
+		(libpart
+			(lib "CommDiagramLibrary")
+			(part "ELRS_RC_RX")
+			(fields
+				(field
+					(name "Reference") "RC_RX1")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "5V")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "MCU_RX")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "MCU_TX")
+					(type "output")
+				)
+				(pin
+					(num "4")
+					(name "RTS")
+					(type "output")
+				)
+				(pin
+					(num "5")
+					(name "CTS")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "GND")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "CommDiagramLibrary")
+			(part "Pixhawk 6C Mini (Comms)")
+			(fields
+				(field
+					(name "Reference") "PXH1")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "5V")
+					(type "power_out")
+				)
+				(pin
+					(num "2")
+					(name "UART7_TX")
+					(type "output")
+				)
+				(pin
+					(num "3")
+					(name "UART7_RX")
+					(type "input")
+				)
+				(pin
+					(num "4")
+					(name "UART7_CTS")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "UART7_RTS")
+					(type "output")
+				)
+				(pin
+					(num "6")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "7")
+					(name "5V")
+					(type "power_out")
+				)
+				(pin
+					(num "8")
+					(name "UART5_TX")
+					(type "output")
+				)
+				(pin
+					(num "9")
+					(name "UART5_RX")
+					(type "input")
+				)
+				(pin
+					(num "10")
+					(name "UART5_CTS")
+					(type "input")
+				)
+				(pin
+					(num "11")
+					(name "UART5_RTS")
+					(type "output")
+				)
+				(pin
+					(num "12")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "13")
+					(name "5V")
+					(type "power_out")
+				)
+				(pin
+					(num "14")
+					(name "UART8_TX")
+					(type "output")
+				)
+				(pin
+					(num "15")
+					(name "UART8_RX")
+					(type "input")
+				)
+				(pin
+					(num "16")
+					(name "I2C2_SCL")
+					(type "bidirectional")
+				)
+				(pin
+					(num "17")
+					(name "I2C2_SDA")
+					(type "bidirectional")
+				)
+				(pin
+					(num "18")
+					(name "GND")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "CommDiagramLibrary")
+			(part "SiK_Telemtery_V3")
+			(fields
+				(field
+					(name "Reference") "SIK_TELEM1")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "5V")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "RX")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "TX")
+					(type "output")
+				)
+				(pin
+					(num "4")
+					(name "RTS")
+					(type "output")
+				)
+				(pin
+					(num "5")
+					(name "CTS")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "GND")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "CommDiagramLibrary")
+			(part "Walksnail_Avatar_HD_Pro_VTX")
+			(fields
+				(field
+					(name "Reference") "VTX1")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VCC")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "RX")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "TX")
+					(type "output")
+				)
+				(pin
+					(num "4")
+					(name "GND")
+					(type "power_in")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "CommDiagramLibrary")
+			(uri "E:/Documents/AeolusInductions/Task 2/CommDiagramLibrary.kicad_sym")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "+BATT")
+			(class "Default")
+			(node
+				(ref "BEC1")
+				(pin "1")
+				(pinfunction "VIN_1")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "2")
+			(name "GND")
+			(class "Default")
+			(node
+				(ref "BEC1")
+				(pin "2")
+				(pinfunction "GND_IN_2")
+				(pintype "power_in")
+			)
+			(node
+				(ref "PXH1")
+				(pin "12")
+				(pinfunction "GND_12")
+				(pintype "power_in")
+			)
+			(node
+				(ref "PXH1")
+				(pin "6")
+				(pinfunction "GND_6")
+				(pintype "power_in")
+			)
+			(node
+				(ref "RC_RX1")
+				(pin "6")
+				(pinfunction "GND_6")
+				(pintype "power_in")
+			)
+			(node
+				(ref "SIK_TELEM1")
+				(pin "6")
+				(pinfunction "GND_6")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "3")
+			(name "Net-(BEC1-12V_OUT)")
+			(class "Default")
+			(node
+				(ref "BEC1")
+				(pin "3")
+				(pinfunction "12V_OUT_3")
+				(pintype "power_out")
+			)
+			(node
+				(ref "VTX1")
+				(pin "1")
+				(pinfunction "VCC_1")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "4")
+			(name "Net-(BEC1-GND_OUT)")
+			(class "Default")
+			(node
+				(ref "BEC1")
+				(pin "4")
+				(pinfunction "GND_OUT_4")
+				(pintype "power_out")
+			)
+			(node
+				(ref "PXH1")
+				(pin "18")
+				(pinfunction "GND_18")
+				(pintype "power_in")
+			)
+			(node
+				(ref "VTX1")
+				(pin "4")
+				(pinfunction "GND_4")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "5")
+			(name "Net-(PXH1-UART5_CTS)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "10")
+				(pinfunction "UART5_CTS_10")
+				(pintype "input")
+			)
+			(node
+				(ref "RC_RX1")
+				(pin "4")
+				(pinfunction "RTS_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "6")
+			(name "Net-(PXH1-UART5_RTS)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "11")
+				(pinfunction "UART5_RTS_11")
+				(pintype "output")
+			)
+			(node
+				(ref "RC_RX1")
+				(pin "5")
+				(pinfunction "CTS_5")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "7")
+			(name "Net-(PXH1-UART5_RX)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "9")
+				(pinfunction "UART5_RX_9")
+				(pintype "input")
+			)
+			(node
+				(ref "RC_RX1")
+				(pin "3")
+				(pinfunction "MCU_TX_3")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "8")
+			(name "Net-(PXH1-UART5_TX)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "8")
+				(pinfunction "UART5_TX_8")
+				(pintype "output")
+			)
+			(node
+				(ref "RC_RX1")
+				(pin "2")
+				(pinfunction "MCU_RX_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "9")
+			(name "Net-(PXH1-UART7_CTS)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "4")
+				(pinfunction "UART7_CTS_4")
+				(pintype "input")
+			)
+			(node
+				(ref "SIK_TELEM1")
+				(pin "4")
+				(pinfunction "RTS_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "10")
+			(name "Net-(PXH1-UART7_RTS)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "5")
+				(pinfunction "UART7_RTS_5")
+				(pintype "output")
+			)
+			(node
+				(ref "SIK_TELEM1")
+				(pin "5")
+				(pinfunction "CTS_5")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "11")
+			(name "Net-(PXH1-UART7_RX)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "3")
+				(pinfunction "UART7_RX_3")
+				(pintype "input")
+			)
+			(node
+				(ref "SIK_TELEM1")
+				(pin "3")
+				(pinfunction "TX_3")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "12")
+			(name "Net-(PXH1-UART7_TX)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "2")
+				(pinfunction "UART7_TX_2")
+				(pintype "output")
+			)
+			(node
+				(ref "SIK_TELEM1")
+				(pin "2")
+				(pinfunction "RX_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "13")
+			(name "Net-(PXH1-UART8_RX)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "15")
+				(pinfunction "UART8_RX_15")
+				(pintype "input")
+			)
+			(node
+				(ref "VTX1")
+				(pin "3")
+				(pinfunction "TX_3")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "14")
+			(name "Net-(PXH1-UART8_TX)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "14")
+				(pinfunction "UART8_TX_14")
+				(pintype "output")
+			)
+			(node
+				(ref "VTX1")
+				(pin "2")
+				(pinfunction "RX_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "15")
+			(name "Net-(RC_RX1-5V)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "7")
+				(pinfunction "5V_7")
+				(pintype "power_out")
+			)
+			(node
+				(ref "RC_RX1")
+				(pin "1")
+				(pinfunction "5V_1")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "16")
+			(name "Net-(SIK_TELEM1-5V)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "1")
+				(pinfunction "5V_1")
+				(pintype "power_out")
+			)
+			(node
+				(ref "SIK_TELEM1")
+				(pin "1")
+				(pinfunction "5V_1")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "17")
+			(name "unconnected-(PXH1-5V-Pad13)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "13")
+				(pinfunction "5V_13")
+				(pintype "power_out+no_connect")
+			)
+		)
+		(net
+			(code "18")
+			(name "unconnected-(PXH1-I2C2_SCL-Pad16)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "16")
+				(pinfunction "I2C2_SCL_16")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "19")
+			(name "unconnected-(PXH1-I2C2_SDA-Pad17)")
+			(class "Default")
+			(node
+				(ref "PXH1")
+				(pin "17")
+				(pinfunction "I2C2_SDA_17")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+	)
+)
